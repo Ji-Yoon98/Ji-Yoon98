@@ -1,11 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:ffdde1,100:ee9ca7&height=300&section=header&text=Hi,%20this%20is%20Ji_Yun%20Github%20🙌🏻&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:ffdde1,100:ee9ca7&height=300&section=header&text=Hi,%20this%20is%20Ji_Yun%20Github%20&fontColor=fff&fontSize=40)
 
 <div align="center">
+<!--   <h2>Hi, this is Ji_Yun Github</h2> -->
+  
   <h3>🍊ME🍊</h3>
   <a href="https://parkji-yun.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-FF8800?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
   <a href="mailto:nmjk0123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:nmjk0123@gmail.com"/></a>
   
+  </br></br>
+  
   <h3>🔥Tech Stack🔥</h3>
+  
+  </br>
   
   <p>FrontEnd Development</p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp
