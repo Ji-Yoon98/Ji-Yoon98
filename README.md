@@ -36,7 +36,6 @@
   </br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>&nbsp
   
   </br></br>
   <a href="https://github.com/parkJi-yun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=parkJi-yun&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" /></a>
