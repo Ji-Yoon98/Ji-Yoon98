@@ -4,7 +4,7 @@
 <!--   <h2>Hi, this is Ji_Yun Github</h2> -->
   
   <h3>🍊ME🍊</h3>
-  <a href="https://parkji-yun.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-FF8800?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
+  <a href="https://Ji-Yoon98.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-FF8800?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
   <a href="mailto:nmjk0123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:nmjk0123@gmail.com"/></a>
   
   </br></br>
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>&nbsp
   
   </br></br>
-  <a href="https://github.com/parkJi-yun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=parkJi-yun&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/parkJi-yun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkJi-yun&layout=compact&theme=radical&hide_border=true" /></a> 
+  <a href="https://github.com/Ji-Yoon98"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=parkJi-yun&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/Ji-Yoon98"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkJi-yun&layout=compact&theme=radical&hide_border=true" /></a> 
   
 </div>
