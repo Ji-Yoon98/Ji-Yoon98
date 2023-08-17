@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
   </br>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp
+<!--   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/jest-C21325?style=flat-square&logo=jest&logoColor=white"/>&nbsp
