@@ -36,7 +36,7 @@
 <!--   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>&nbsp -->
   
   </br></br>
-  <a href="https://github.com/Ji-Yoon98"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Ji-Yoon98&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/Ji-Yoon98"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Ji-Yoon98&theme=radical&include_all_commits=true&show_icons=true" /></a>
   <a href="https://github.com/Ji-Yoon98"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-Yoon98&layout=compact&theme=radical&hide_border=true" /></a> 
   
 </div>
